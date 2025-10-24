@@ -1,0 +1,11 @@
+# CUA Safety Assessment Dependencies
+# Core CUA packages
+cua-computer
+cua-agent
+
+# Additional dependencies
+python-dotenv
+pytest
+
+# Development dependencies
+# (to be added as needed)
